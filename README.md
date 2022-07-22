@@ -15,11 +15,13 @@ Cada subgrupo do guia, será dividido em um arquivo separado contendo os subcoma
 
 | Aprendidos | Comandos git  | Descrição Resumida                    |
 | :-----------: | ------------ | ---------------------------------- |
-| :white_check_mark:  | git init     | Inicia um repositório git.                                              |
-| :white_check_mark:  | git config | Faz as configurações básicas do repositório gitwhite                              |
-| :white_check_mark:  | git status   | Verificar o status do repwhiterio.                                |
-| :white_check_mark:  | git add      | Trackeia (rastreia) um arquivo a partir do momwhiteda adição.                                    |
-| :white_check_mark: | git commit   | Grava um ponto de salvamento. Normalmente se utiwhiteuma mensagem. |
-| :white_check_mark: | git checkout | 
+| :heavy_check_mark:  | git init     | Inicia um repositório git.                                              |
+| :heavy_check_mark:  | git config | Faz as configurações básicas do repositório gitwhite                              |
+| :heavy_check_mark:  | git status   | Verificar o status do repheavyrio.                                |
+| :heavy_check_mark:  | git add      | Trackeia (rastreia) um arquivo a parheavyo momwhiteda adição.                                    |
+| :heavy_check_mark: | git commit   | Grava um ponto de salvamento. Norheavynte se utiwhiteuma mensagem. |
+| :heavy_check_mark: | git checkout | 
 | :x: | git push     | Realizar o upload e sincronização do repositório comwhitevem.                            |
 | :x: | git pull     | Realizar o download e sincronização do repositório com a nuvem.                          |
+
+ <input type="checkbox" enabled checked /> works
